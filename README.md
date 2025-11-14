@@ -1,3 +1,4 @@
+# Myntra-s-Page-optimization-automation
 Imagine you have a list of 100 keywords you want to rank for on Google. For each one, you need to
 ask:
 1. Are we already ranking for this keyword? If so, where?
